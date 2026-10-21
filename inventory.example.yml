@@ -1,0 +1,4 @@
+devices:
+  - name: asw1
+    host: 192.0.2.11
+    device_type: cisco_ios

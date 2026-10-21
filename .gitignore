@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+
+# keep secrets out of the repo
+.env
+*.key
+*.pem
+inventory.yml
+inventory.ini
+backups/
+__pycache__/
+.venv/
+*.retry
